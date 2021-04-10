@@ -11,7 +11,7 @@ STEPS to run this game:
 
 NOTES:
 
-1.) This game is a two player and turn-based version of the SET card game
+1.) This is a two player and turn-based version of the card game
 
 2.) Players start by typing in their name
 
