@@ -1,5 +1,5 @@
 # SET
-An attempt to better learn and understand Ruby fundamentals.
+Created in an attempt to better learn and understand Ruby fundamentals.
 
 STEPS to run this game:
 
