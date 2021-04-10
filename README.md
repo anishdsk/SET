@@ -1,4 +1,4 @@
-# SET
+# SET-Card-Game
 Created in an attempt to learn and understand Ruby fundamentals.
 
 STEPS to run this game:
