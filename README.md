@@ -5,7 +5,7 @@ STEPS to run this game:
 
 1.) Download all contents
 
-2.) Within the folder run "ruby game.rb" from the command line
+2.) Within this directory, run "ruby game.rb" from the command line
 
 3.) Follow the instructions
 
